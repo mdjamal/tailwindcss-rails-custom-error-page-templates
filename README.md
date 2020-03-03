@@ -1,1 +1,1 @@
-# tailwindcss-rails-custom-error-page-templates
+# Tailwind CSS Rails Custom Error Page Templates
