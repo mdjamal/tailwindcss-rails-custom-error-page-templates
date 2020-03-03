@@ -7,7 +7,7 @@ The default error pages especially 404 page leaves me confused or even alarmed w
 
 So have designed these error pages 404, 422 and 500 and will be using them for all my rails project.
 
-It ’s simple HMTL code and looks stunning thanks to awesome [TailwindCSS](https://tailwindcss.com/) and beautiful illustrations by [Ouch.pics](https://icons8.com) 
+It’s simple HTML code and looks stunning thanks to awesome [TailwindCSS](https://tailwindcss.com/) and beautiful illustrations by [Ouch.pics](https://icons8.com) 
 
 Included 3 styles in folder titled after CSS position [*Static*](#static), [*Static-Illustrated*](#static-illustrated) and [*Absolute*](#absolute).
 
