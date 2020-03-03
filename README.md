@@ -1,7 +1,7 @@
 # Tailwind CSS Rails Custom Error Page Templates
 These are set of HTML templates built as a replacement for default Ruby on Rails error page templates, found in Rails app /*public*/ folder.
 
-The default error pages especially 404 page leaves me confused or even alarmed when I see them, like something has broken and that we are stuck. 
+The default error pages especially the 404 page leaves me confused or even alarmed when I see them as something has broken and that we are stuck. 
 
 ![Default vs Custom](https://github.com/mdjamal/tailwindcss-rails-custom-error-page-templates/raw/master/screenshots/default-vs-custom.jpg) 
 
@@ -24,11 +24,11 @@ Similar to static but uses illustration instead of the error codes.
 ![Illustrated](https://github.com/mdjamal/tailwindcss-rails-custom-error-page-templates/raw/master/screenshots/Sizzy-iPhone%2011%20Pro%20%2003Mar%2016.36.png)
 
 ## Absolute
-The elements are layered on top using absolute position in wide screens and stacked in small screens.
+The elements are layered on top using the absolute position in wide screens and stacked in small screens.
 
 ![Absolute Big Screen](https://github.com/mdjamal/tailwindcss-rails-custom-error-page-templates/raw/master/screenshots/Sizzy-iPad%20Pro%2011%20%2003Mar%2016.39.png)
 
 ![Absolute Small Screen](https://github.com/mdjamal/tailwindcss-rails-custom-error-page-templates/raw/master/screenshots/Sizzy-iPhone%2011%20Pro%20%2003Mar%2016.39.png)
 
 ## License
-This is available as open source under the terms of the MIT License.
+This is available as open-source under the terms of the MIT License.
