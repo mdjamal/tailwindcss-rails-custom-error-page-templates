@@ -3,6 +3,8 @@ These are set of HTML templates built as a replacement for default Ruby on Rails
 
 The default error pages especially 404 page leaves me confused or even alarmed when I see them, like something has broken and that we are stuck. 
 
+![Default vs Custom](https://github.com/mdjamal/tailwindcss-rails-custom-error-page-templates/raw/master/screenshots/default-vs-custom.jpg) 
+
 So have designed these error pages 404, 422 and 500 and will be using them for all my rails project.
 
 It ’s simple HMTL code and looks stunning thanks to awesome [TailwindCSS](https://tailwindcss.com/) and beautiful illustrations by [Ouch.pics](https://icons8.com) 
